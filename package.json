@@ -48,7 +48,7 @@
     "webpack-merge": "^5.7.3"
   },
   "dependencies": {
-    "core-js": "^3.9.0",
+    "core-js": "^3.16.0",
     "cross-env": "^7.0.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
